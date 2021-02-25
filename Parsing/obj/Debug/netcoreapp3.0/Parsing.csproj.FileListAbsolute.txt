@@ -1,0 +1,11 @@
+D:\Программирование\C#\Консоль\Задание №13\Parsing\Parsing\bin\Debug\netcoreapp3.0\Parsing.exe
+D:\Программирование\C#\Консоль\Задание №13\Parsing\Parsing\bin\Debug\netcoreapp3.0\Parsing.deps.json
+D:\Программирование\C#\Консоль\Задание №13\Parsing\Parsing\bin\Debug\netcoreapp3.0\Parsing.runtimeconfig.json
+D:\Программирование\C#\Консоль\Задание №13\Parsing\Parsing\bin\Debug\netcoreapp3.0\Parsing.runtimeconfig.dev.json
+D:\Программирование\C#\Консоль\Задание №13\Parsing\Parsing\bin\Debug\netcoreapp3.0\Parsing.dll
+D:\Программирование\C#\Консоль\Задание №13\Parsing\Parsing\bin\Debug\netcoreapp3.0\Parsing.pdb
+D:\Программирование\C#\Консоль\Задание №13\Parsing\Parsing\obj\Debug\netcoreapp3.0\Parsing.csprojAssemblyReference.cache
+D:\Программирование\C#\Консоль\Задание №13\Parsing\Parsing\obj\Debug\netcoreapp3.0\Parsing.AssemblyInfoInputs.cache
+D:\Программирование\C#\Консоль\Задание №13\Parsing\Parsing\obj\Debug\netcoreapp3.0\Parsing.AssemblyInfo.cs
+D:\Программирование\C#\Консоль\Задание №13\Parsing\Parsing\obj\Debug\netcoreapp3.0\Parsing.dll
+D:\Программирование\C#\Консоль\Задание №13\Parsing\Parsing\obj\Debug\netcoreapp3.0\Parsing.pdb
